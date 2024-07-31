@@ -2,7 +2,7 @@ A Flight Fare Prediction project involves creating a model that can predict the 
 **Project Overview**<br>
 The goal of the Flight Fare Prediction project is to build a machine learning model that can predict the price of airline tickets. This can help travelers find the best deals, assist travel agencies in providing competitive pricing, and aid airlines in adjusting their pricing strategies.<br>
 **Objectives**<br>
-1.Data Collection: Gather historical flight fare data from various sources such as airline websites, travel agencies, and APIs.<br>
+**1.Data Collection:**Gather historical flight fare data from various sources such as airline websites, travel agencies, and APIs.<br>
 2.Data Preprocessing: Clean the data by handling missing values, encoding categorical variables, and scaling numerical features.<br>
 3.Exploratory Data Analysis (EDA):  Analyze  the data to identify trends and patterns that influence flight fares, such as seasonality, holidays, and economic factors.<br>
 4.Feature Engineering: Create new features that might impact the fare, such as the time until departure, day of the week, and whether the flight is direct or has layovers.<br>
