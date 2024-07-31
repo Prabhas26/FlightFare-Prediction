@@ -20,13 +20,13 @@ Departure and Arrival Time: Scheduled times for departure and arrival.<br>
 Duration: The total duration of the flight.<br>
 Total Stops: The number of stops or layovers.<br>
 Additional Information: Any other relevant information such as in-flight amenities or services.<br>
-**Tools and Technologies**
+**Tools and Technologies**<br>
 Programming Language: Python
 Web scraping (BeautifulSoup, Scrapy), APIs (e.g., Skyscanner API)<br>
 Data Collection: Data Analysis and Preprocessing: Pandas, NumPy.<br>
 Visualization: Matplotlib, Seaborn.<br>
 Machine Learning: Scikit-learn, XGBoost, LightGBM.<br>
-**Project Workflow**
+**Project Workflow**<br>
 Data Collection: Collect flight fare data.<br>
 Data Preprocessing: Clean and preprocess the data.<br>
 EDA: Perform exploratory data analysis to understand the data better.<br>
