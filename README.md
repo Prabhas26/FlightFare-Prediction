@@ -1,3 +1,4 @@
+# Flight Fare Prediction Project<br>
 A Flight Fare Prediction project involves creating a model that can predict the cost of airline tickets based on various factors.<br>
 **Project Overview**<br>
 The goal of the Flight Fare Prediction project is to build a machine learning model that can predict the price of airline tickets. This can help travelers find the best deals, assist travel agencies in providing competitive pricing, and aid airlines in adjusting their pricing strategies.<br><br>
