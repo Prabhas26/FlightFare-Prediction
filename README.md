@@ -10,7 +10,7 @@ The goal of the Flight Fare Prediction project is to build a machine learning mo
 **6.Model Training**: Train the selected models on the preprocessed data and tune hyperparameters to improve performance.<br>
 **7.Model Evaluation**: Evaluate the models using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.<br>
 **8.Deployment**: Deploy the best-performing model using a web application or API, allowing users to input flight details and receive fare predictions.<br>
-**Data Features**:
+**Data Features**:<br>
 Typical features used in the model might include:<br>
 **Airline:** The airline operating the flight.<br>
 **Date of Journey**: The date on which the journey is scheduled.<br>
@@ -26,7 +26,7 @@ Web scraping (BeautifulSoup, Scrapy), APIs (e.g., Skyscanner API)<br>
 **Data Collection**: Data Analysis and Preprocessing: Pandas, NumPy.<br>
 **Visualization**: Matplotlib, Seaborn.<br>
 **Machine Learning**: Scikit-learn, XGBoost, LightGBM.<br>
-**Project Workflow**:<br>
+**Project Workflow**:<br><br>
 **Data Collection**: Collect flight fare data.<br>
 **Data Preprocessing**: Clean and preprocess the data.<br>
 **EDA**: Perform exploratory data analysis to understand the data better.<br>
